@@ -1,2 +1,2 @@
-# ProjetoSpringBoot
-Projeto criado para colocar todos os exercícios do bootcamp dio-springboot
+# ProjectSpringBoot
+Repositório para armazenar todo o conteúdo do curso de Spring Boot
